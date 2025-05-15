@@ -1,4 +1,6 @@
 For finding the best candidate based on a given jd 
+
+
 Method1 -> Extract jd req and give llm the jd_req and candidate description and ask it to score based on certain attributes. This is heavily dependent on the reasoning capablity of the model
 
 
